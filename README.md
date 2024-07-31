@@ -8,9 +8,7 @@ I have some repos related to stuffs of my interest. Repos are mostly updated whi
 
 ---
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=anwrat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"></p>
-
-<p><img align="center" height="280em" width="1000em" src="https://github-readme-streak-stats.herokuapp.com/?user=anwrat&theme=tokyonight&hide_border=false"></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=anwrat&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 <br>
