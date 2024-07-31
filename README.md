@@ -6,9 +6,6 @@ I am also interested in low level stuffs in programming and also gamedev🕹️.
 
 I have some repos related to stuffs of my interest. Repos are mostly updated while learning.
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=anwrat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
----
 
 # Summary:-
 
