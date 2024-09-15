@@ -1,10 +1,8 @@
 👋 Hi, I’m Anwesh Rawat.
 
-Currently learning some programming languages.
+I love games and I am currently exploring game development. 
 
-I am also interested in low level stuffs in programming and also gamedev🕹️.
-
-I have some repos related to stuffs of my interest. Repos are mostly updated while learning.
+Also learning new languages, frameworks.
 
 ---
 
