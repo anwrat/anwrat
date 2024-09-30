@@ -1,9 +1,4 @@
 👋 Hi, I’m Anwesh Rawat.
-
-I love games and I am currently exploring game development. 
-
-Also learning new languages, frameworks.
-
 ---
 
 <!---
